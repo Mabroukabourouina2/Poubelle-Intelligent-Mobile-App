@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269167822767",
+    "project_id": "smartpo-b1a5a",
+    "storage_bucket": "smartpo-b1a5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269167822767:android:58692a9154815e03a8515a",
+        "android_client_info": {
+          "package_name": "com.example.poubelle_app_pfa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzlNhOmSstvb7WrG3KWkAJ2n5_wvHj7E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
